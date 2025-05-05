@@ -7,10 +7,10 @@ Full-stack Developer | DevOps Enthusiast | Coffee Artisan
 Creative technologist by day, manual brew barista by night. Navigating the world of clean code, efficient systems, and handcrafted pour-overs with the same intensity and intention. With hands in full-stack development, a curious dive into DevOps, and a soft spot for mindful productivity — every solution is built to be lean, pragmatic, and human-focused.
 
 * 🌍  I'm based in Surabaya, Indonesia
-* 🖥️  See my portfolio at [https://enriquemuhammad.github.io/Enrique-Portfolio/](http://https://enriquemuhammad.github.io/Enrique-Portfolio/)
+* 🖥️  See my portfolio at [https://enriquemuhammad.github.io/Enrique-Portfolio/](https://enriquemuhammad.github.io/Enrique-Portfolio/)
 * ✉️  You can contact me at [enriquemuhammad.kerja@gmail.com](mailto:enriquemuhammad.kerja@gmail.com)
-* 🧠  I'm learning Filament, CI /CD
-* 🤝  I'm open to collaborating on Startups, Backend Projects etc. Contact me
+* 🧠  I'm learning Filament, CI / CD, and Coffee!
+* 🤝  I'm open to collaborating on Startups, Backend Projects etc. Contact me through the email
 * ⚡  Communication-driven, adaptive, and deeply mindful. Often found thinking two steps ahead while still being present. Fluent in creative problem-solving, effective time management, and asking the questions others skip. Bookworm with a love for philosophy, especially around resilience, clarity, and intentional living. Minimalist by default, pragmatist by design.
 
 ### Skills
