@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=F4F1EA&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=46&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=F4F1EA&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=46&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production" alt="Code Hard, Sleep Harder. Surabaya, Indonesia. Systems that stay in production."></a>
-<a href="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=1B1B18&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=46&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=1B1B18&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=46&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production" alt="Code Hard, Sleep Harder. Surabaya, Indonesia. Systems that stay in production."></a>
+  <a href="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2200&amp;pause=3200&amp;color=F4F1EA&amp;center=true&amp;vCenter=true&amp;width=960&amp;height=50&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2200&amp;pause=3200&amp;color=F4F1EA&amp;center=true&amp;vCenter=true&amp;width=960&amp;height=50&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production" alt="Code Hard, Sleep Harder. Surabaya, Indonesia. Systems that stay in production."></a>
+<a href="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2200&amp;pause=3200&amp;color=1B1B18&amp;center=true&amp;vCenter=true&amp;width=960&amp;height=50&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&amp;weight=600&amp;size=22&amp;duration=2200&amp;pause=3200&amp;color=1B1B18&amp;center=true&amp;vCenter=true&amp;width=960&amp;height=50&amp;lines=Code+Hard%2C+Sleep+Harder;Surabaya%2C+Indonesia;Systems+that+stay+in+production" alt="Code Hard, Sleep Harder. Surabaya, Indonesia. Systems that stay in production."></a>
 </p>
 
 <table width="100%">
@@ -65,7 +65,7 @@ IT Business Analyst and full-stack developer · Surabaya, Indonesia<br>
 
 <p>Rust desktop tools: <a href="https://github.com/EnriqueMuhammad/Zephix-DBStudio">Zephix-DBStudio</a> is a native database IDE, and <a href="https://github.com/EnriqueMuhammad/Prometheus-S3-Manager">Prometheus-S3-Manager</a> is a file manager for S3 and S3-compatible storage.</p>
 
-<h3>Also building</h3>
+<h3>More projects</h3>
 
 <table width="100%">
 <tr>
@@ -89,8 +89,6 @@ IT Business Analyst and full-stack developer · Surabaya, Indonesia<br>
 <td>Laravel, Filament, and Docker starter</td>
 </tr>
 </table>
-
-<p>Newer public repositories. Still in progress.</p>
 
 <h3>Skills</h3>
 
